@@ -1,7 +1,7 @@
 # Railway_Announcement
 It is railway announcement python project. It is project to demonstrate how we can generate the Railways Station Announcement by maintaining a database of required information regarding the trains in an excel sheet.
 
-STEPS TO RUN THIS PROJECT EASILY
+STEPS TO RUN THIS PROJECT EASILY 👍
 
 STEP 1:-  must install required file's like 
 ((( pip install pyaudio
@@ -26,4 +26,5 @@ output file named like announcement_train number_1  ,  announcement_train number
 
 STEP 6:- now you can also edit excel file which is included in zip file and get your desired output.
 
---------------------------------------------------------------------------🙏THANK YOU🙏---------------------------------------------------------------------------------
+
+-----🙏THANK YOU🙏-----
